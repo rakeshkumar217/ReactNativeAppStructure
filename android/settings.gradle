@@ -1,0 +1,9 @@
+rootProject.name = 'AppStructure'
+include ':zoomsdk'
+project(':zoomsdk').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-zoom-sdk/android/zoomsdk')
+include ':zoomcommonlib'
+project(':zoomcommonlib').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-zoom-sdk/android/zoomcommonlib')
+include ':react-native-zoom-sdk'
+project(':react-native-zoom-sdk').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-zoom-sdk/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:zoomsdk:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native-zoom-sdk/android/zoomsdk/build/.transforms/4aaec2e479be1c9c28ab9735f13099db/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-zoom-sdk/android/zoomsdk/build/.transforms/4aaec2e479be1c9c28ab9735f13099db/res" />
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native-zoom-sdk/android/zoomsdk/build/.transforms/4aaec2e479be1c9c28ab9735f13099db/jars/libs/protobuf-java-2.4.1-lite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:zoomcommonlib:unspecified@jar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native-zoom-sdk/android/zoomcommonlib/build/.transforms/61eb9e4335bbfbd68c5e40a769d2a62b/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native-zoom-sdk/android/zoomcommonlib/build/.transforms/61eb9e4335bbfbd68c5e40a769d2a62b/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-zoom-sdk/android/zoomcommonlib/build/.transforms/61eb9e4335bbfbd68c5e40a769d2a62b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
